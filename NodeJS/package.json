@@ -1,0 +1,11 @@
+{
+    "name": "HighJump",
+    "description": "High Jump",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "4.4.1",
+        "jade": "*",
+        "stylus": "*",
+        "nib": "*"
+    }
+}
